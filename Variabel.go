@@ -6,7 +6,6 @@ func main() {
 	//contoh variabel menggunakan tipe data
 	var a string
 	a = "Nizam"
-	a = "Arya"
 	fmt.Println(a)
 
 	a = "Deflorio"
